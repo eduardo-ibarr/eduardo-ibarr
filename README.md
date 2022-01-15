@@ -9,7 +9,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=duibarr&theme=algolia&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats" alt="duibarr" /></p>
+<p align="center"><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duibarr&theme=algolia&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)" alt="duibarr" /></p>
 
 ## 🛠️ My Skills
 
