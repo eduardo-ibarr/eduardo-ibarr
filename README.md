@@ -5,8 +5,8 @@
 <hr/>
 <h4 align="center">I like to code, innovate and imagine. I consider myself an enthusiastic person who loves to accept new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=duibarr&label=Eduardo's%20Profile%20Views%20&color=dc143c&style=plastic" alt="duibarr" /> </p>
-
+<p align="center"> Quantidade de visitas no meu perfil desde 04/02/2022. </p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/duibarr/count.svg" /></p>
 ## 🔥 Streak Stats
 
 <div align="center">
