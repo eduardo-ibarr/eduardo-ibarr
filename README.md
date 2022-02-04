@@ -6,7 +6,7 @@
 <h4 align="center">I like to code, innovate and imagine. I consider myself an enthusiastic person who loves to accept new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge.</h4>
 <br>
 <p align="center"> Number of visits to my profile since 04/02/2022. </p>
-![](https://komarev.com/ghpvc/?username=duibarr&style=flat&color=blueviolet)
+<p align="center"> <img src="![](https://komarev.com/ghpvc/?username=duibarr&style=flat&color=blueviolet)"/> </p>
 ## 🔥 Streak Stats
 
 <div align="center">
