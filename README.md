@@ -5,8 +5,7 @@
 <hr/>
 <h4 align="center">I like to code, innovate and imagine. I consider myself an enthusiastic person who loves to accept new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge.</h4>
 <br>
-<p align="center">Number of visits since 04/02/2022</p>
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=duibarr-badge" alt="visitor badge"/></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=duibarr-badge&left_text=MyPageVisitors" alt="visitor badge"/></p>
 ## 🔥 Streak Stats
 
 <div align="center">
