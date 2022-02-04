@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I like to code, innovate and imagine. I consider myself an enthusiastic person who loves to accept new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge.</h4>
 <br>
-![Profile views](https://gpvc.arturio.dev/duibarr)
+![Profile views](https://gpvc.arturio.dev/duibarr?v=3)
 
 ## 🔥 Streak Stats
 
