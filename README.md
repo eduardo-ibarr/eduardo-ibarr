@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Eduardo de Paula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
@@ -6,7 +6,7 @@
 <h4 align="center">I like to code, innovate and imagine. I consider myself an enthusiastic person who loves to accept new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge.</h4>
 <br>
 <p align="center">Number of visits since 04/02/2022</p>
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/duibarr/count.svg" /></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=duibarr" alt="visitor badge"/></p>
 ## 🔥 Streak Stats
 
 <div align="center">
