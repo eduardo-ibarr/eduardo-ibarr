@@ -6,14 +6,15 @@
 <h4 align="center">I like to code, innovate and imagine. I consider myself an enthusiastic person who loves to accept new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge.</h4>
 <br>
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=duibarr.duibarr&left_text=Profile%20Visitors" alt="visitor badge"/></p>
-## 🔥 Streak Stats
+
+### 🔥 Streak Stats
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duibarr&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
-### 🛠️ My Skills
+## 🛠️ My Skills
 
 ### 👉 Programming languages
 
