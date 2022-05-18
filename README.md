@@ -98,5 +98,4 @@
 	<a href="mailto:eduardoibarr56@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/duibarr"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
  	<a href="https://linkedin.com/in/eduardo-ibarr"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/duibarr"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
