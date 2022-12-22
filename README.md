@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo de Paula</h1>
 <h3 align="center">A passionate frontend and chatbot developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardo-ibarr" alt="eduardo-ibarr" /></a> </p>
-
 - 🌱 I’m currently learning **API Restful**
 
 - 💬 Ask me about **react, javascript**
