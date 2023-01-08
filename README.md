@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:eduardoibarr56@gmail.com" alt="Gmail">
+  <a href="mailto: eduardoibarr56@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/eduardo-ibarr" alt="Linkedin">
