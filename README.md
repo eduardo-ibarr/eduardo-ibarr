@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo Eduardo. Trabalho com o desenvolvimento de chatbots e frontend. Tambem estou estudando alguns aspectos de backend.
+  Olá, me chamo Eduardo. Trabalho com o desenvolvimento de chatbots e frontend. Atualmente estou estudando sobre backend.
 </p>
 
 <p align="left">
