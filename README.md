@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo Eduardo. Trabalho com o desenvolvimento de chatbots e frontend. Atualmente estou estudando sobre backend.
+  Hello, my name is Eduardo de Paula. I work with the development of chatbots and frontend. I'm currently studying about backend.
 </p>
 
 <p align="left">
-  🦄 Linguagens: JavaScript, TypeScript, C
+  🦄 Languages: JavaScript, TypeScript, C
 </p>
 
 <p align="left">
-  💼 Ferramentas: React.js, Node.js, Blip, React Query, Express, MongoDB, API Restful
+  💼 Tools: React.js, Node.js, Blip, React Query, Express, MongoDB, API Restful
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  💌 Contact with me: ⤵️
 </p>
 
 <p align="left">
