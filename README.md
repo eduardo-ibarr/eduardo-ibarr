@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to take on
 ## 📫 How to reach me
 
 - Email: eduardoibarr56@gmail.com
-- LinkedIn: [Eduardo Ibarr de Paula](https://www.linkedin.com/in/eduardo.ibarr/)
+- LinkedIn: [Eduardo Ibarr de Paula](https://www.linkedin.com/in/eduardo-ibarr/)
 
 ## 📊 GitHub Stats
 
