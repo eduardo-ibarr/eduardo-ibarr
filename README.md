@@ -14,7 +14,8 @@ Welcome to my GitHub profile! Here, you'll find projects that showcase my journe
 ## Skills
 
 - Proficient in AWS
-- Frontend development with ReactJS and Node.js
+- Backend development with Node.js and Java
+- Frontend development with React
 - Chatbot development with Blip, Microsoft Bot Framework and Dialogflow
 
 ## How to reach me
