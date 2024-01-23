@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here, you'll find projects that showcase my journe
 
 ## Experience
 
-- **Junior Frontend Developer** with a focus on ReactJS and Node.js (Present)
+- **Junior Frontend Developer** with a focus on React and Node.js (Present)
 - **Developer Trainee** from June 2022 to February 2023
 - **Chatbot Development Intern** at Compass UOL from December 2021 to March 2022
 
