@@ -21,4 +21,3 @@ Welcome to my GitHub profile! Here, you'll find projects that showcase my journe
 ## How to reach me
 
 - Email: [eduardoibarr56@gmail.com](mailto:eduardoibarr56@gmail.com)
-- Linkedin: [Eduardo Ibarr on LinkedIn](https://www.linkedin.com/in/eduardo-ibarr/)
